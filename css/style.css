@@ -1,0 +1,48 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+a {
+  background: inherit;
+  color: #2727a4;
+}
+h2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+ul{
+   margin: 5% auto;
+   width: 70%;
+   list-style: none;
+}
+ul li{
+    display: inline-block;
+    width: 20%;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    
+}
+ul li img{
+    width: 100%;
+}
+
+@media (max-width: 700px) {
+
+    ul li{
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+  ul li{
+        width: 40%;
+    }
+
+}
