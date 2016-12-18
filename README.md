@@ -1,8 +1,8 @@
 # Simple-lightbox
 ### 1、Feature
-1.简洁原生`JavaScript`灯箱插件（无需依赖 Jquery）
-2.示例图片来源 [unsplash](https://unsplash.com/)
-3.支持`AMD`&&`CMD`规范
+1. 简洁原生`JavaScript`灯箱插件（无需依赖 Jquery）
+1. 示例图片来源 [unsplash](https://unsplash.com/)
+1. 支持`AMD`&&`CMD`规范
 
 ### 2、Install&&Useage
 下载文件引入`lightbox.css`和`lightbox.js`文件
