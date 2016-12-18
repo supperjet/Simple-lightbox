@@ -16,7 +16,7 @@
 ###3、DEMO
 运行`demo.html`
 
-![](demoImgs/1.png)
+![](demoImgs/demo.png)
 
 ###4、Configure
 |   属性  |   类型  | 默认值 |   描述   |
